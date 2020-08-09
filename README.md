@@ -1,4 +1,4 @@
 # workshop
 
-Let's start. Something
+Let's start.
 
