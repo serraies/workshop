@@ -1,4 +1,3 @@
 # workshop
 
-Let's start.
-
+Follow the instructions.
